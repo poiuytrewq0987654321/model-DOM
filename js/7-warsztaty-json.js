@@ -28,3 +28,29 @@ jsonPracownicy.pracownicy.forEach(function(element,index){
     console.log(index+' '+element.lastname+' '+element.firstname);
 })*/
 
+
+//zmiana tła paragrafów 
+
+function ustawTlo(){
+var zmiana = document.getElementById("pierwszy");
+var zmiana2 = document.getElementById("drugi");
+zmiana.style.backgroundColor = "#ff0011";
+zmiana2.style.backgroundColor = "#ffa022";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
