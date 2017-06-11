@@ -22,3 +22,17 @@ console.log(pierwszyChild);
 console.log(pierwszyChild.nextSibling);
 
 console.log(pierwszyChild.nextSibling.nextSibling.nextSibling);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
